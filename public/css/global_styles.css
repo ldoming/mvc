@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01 8, 14, 2:17:45 PM
+    Author     : bibo-lymuel
+*/
+
+body{
+    border: 0px;
+    padding:0px;
+    margin: 0px;
+    font-family: calibri;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color:blue;
+}
+
+a:hover{
+    font-weight: bold;
+    color: red;
+}
+
+input.input_text{
+    color:#0a0810;
+    font-size: 25px;
+    height: 40px;
+    width: 250px;
+}
+
+select.input_text{
+    color:#0a0810;
+    font-size: 25px;
+    height: 40px;
+    width: 250px;
+}
+input.submit_button{
+    color:#0a0810;
+    height: 60px;
+    width: 200px;
+    background-color:#478653;
+    font-size: 25px;
+}
+
+table#profile_page thead tr td{
+    width: 150px;
+    text-align:center;
+    font-weight: bold;
+}
+table#profile_page thead tr td{
+    background-color: #478653;
+    border:1px solid #a0a0a0;
+}
+
+table#profile_page tbody tr td{
+    width: 150px;
+    text-align:center;
+    border:1px solid #a0a0a0;
+}
+table#profile_page tbody tr:hover{
+    background-color: #a0a0a0;
+}
+table#contact_page thead tr td{
+    width: 300px;
+    text-align:center;
+    font-weight: bold;
+}
+table#contact_page thead tr td{
+    background-color: #478653;
+    border:1px solid #a0a0a0;
+}
+
+table#contact_page tbody tr td{
+    width: 150px;
+    text-align:center;
+    border:1px solid #a0a0a0;
+}
+table#contact_page tbody tr:hover{
+    background-color: #a0a0a0;
+}
+
+#contact_page{
+    border:1px solid #a0a0a0;
+}
+#profile_page{
+    
+    border:1px solid #a0a0a0;
+}
+#name_header{
+    color:blue;
+    font-weight: bold;
+}
